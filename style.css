@@ -1,0 +1,68 @@
+#imgleft{
+    float: left;
+    border: 7px ridge black;
+    border-radius: 40px;
+
+}
+
+#imgright{
+    float: right;
+    border: 7px ridge black;
+    border-radius: 40px;
+    
+}
+
+#pp{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(44, 44, 187);
+    color: white;
+    border-radius: 20px;
+    width: 300px;
+
+
+}
+
+p{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(192, 23, 79);
+    color: white;
+    border-radius: 20px;
+    width: 500px;
+}
+
+h1{
+    font-family: cursive;
+    font-weight: bold;
+    font-style: italic;
+    background-color: rgb(212, 9, 202);
+    color: white;
+    border-radius: 30px;
+    height: 50px;
+
+}
+
+body{
+    background-color: #f1e6ff;
+}
+
+
+a button{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(198, 100, 236);
+    font-family: cursive;
+    font-weight: bold;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: 0.4s;
+}
+
+a button:hover{
+    background-color: rgb(150, 82, 177);
+}
